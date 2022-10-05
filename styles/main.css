@@ -95,6 +95,8 @@ text-align: end;
     top: 50%;   
     left: 0;
     transform: translateY(-50);
+    color: #C3C4C4;
+    font-weight: bold;
 }
 
 .authors img {
